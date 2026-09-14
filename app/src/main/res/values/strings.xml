@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Faro Familia</string>
+    <string name="manage_space_url">https://d2n7ih9kfxbzvd.cloudfront.net/</string>
+    <string name="asset_statements" translatable="false">[{\"relation\": [\"delegate_permission/common.handle_all_urls\"],\"target\": {\"namespace\": \"web\",\"site\": \"https://d2n7ih9kfxbzvd.cloudfront.net\"}}]</string>
+</resources>
